@@ -35,6 +35,8 @@ The usage of the following are demanded
 > 4. Display the user some Rockets
 > * Display some data about the rocket such as: Name, picture, cost per launch and etc
 > * Allowing the user to search for a rocket is a PLUS 
+> 
+All the data above can be acquired using the [SpaceX API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/README.md)
 
 ## Running and Executing Requisites
 Make your project running with the minimum needed interactions will be considered important in the analysis of your performance.
