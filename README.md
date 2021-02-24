@@ -45,6 +45,10 @@ Make your project running with the minimum needed interactions will be considere
 Make it as easy as possible
 The ideal scenario will be to clone your repository and execute it through a single command such as `npm start` or `npm run dev` after doing the `npm install`
 
+## Documentation Requisites
+- It can be done in portuguese although being in english will also be considered a plus
+- It should be easy to undertand how to execute your tests (if it has any)
+
 ## Last Requesites
 - You can use your Github, GitLab or BitBucket to deliver this test
 - Try to keep your commits to a reasonable atomic capacity (We want to be able to understand your line of thinking. Do not be afraid to make really small commits.)
