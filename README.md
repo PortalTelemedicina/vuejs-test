@@ -10,13 +10,19 @@ The usage of the following are demanded
 - Use the [SpaceX API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/README.md)
 - The WEB APP shoud be responsive (supporting mobile screens is a PLUS)
 
+### What the Should Have
+
 ## Last Requesites
 - You can use your Github, GitLab or BitBucket to deliver this test
 - Try to keep your commits to a reasonable atomic capacity (We want to be able to understand your line of thinking. Do not be afraid to make really small commits.)
 - Use as much best practices you see fit to address the commits and/or branch naming (we use techniques based on gitflow)
+- Another PLUS would be to cache some of the API requests ([axios-cache-adapter](https://www.npmjs.com/package/axios-cache-adapter) is a way to go if you're using Axios)
+
+## Bonus
 - Publishing your client in the cloud will be considered a PLUS (Heroko and Netlify are free ways to go)
 - Developing tests is optional but will also be considered a PLUS
-- Another PLUS would be to cache some of the API requests ([axios-cache-adapter](https://www.npmjs.com/package/axios-cache-adapter) is a way to go if you're using Axios)
+- Using Service Workers to let your webpage work offline would be very nice
+- You can implement some extra features if you want but try not to scape so much from the main goal of the WEB APP
 
 Feel free to ask Patrick Lopes - (**patrick@portaltelemedicina.com.br**) or Luiz Roberto Lethang Rodolpho - (**luiz@portaltelemedicina.com.br**) any question.
 
