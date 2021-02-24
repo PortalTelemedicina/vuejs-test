@@ -1,5 +1,6 @@
 
 # Front-end Test for candidate
+We expect the candidate create a Web Page based on the following requisites.
 
 ## Technical Requisites
 
