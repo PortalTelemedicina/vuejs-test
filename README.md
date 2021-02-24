@@ -5,7 +5,7 @@
 The usage of the following are demanded
 - **ES6**
 - **Vue.JS** (we use Vue 2.X but fell free to use 3.X with hooks)
-- Fell free to use any framework (or none) asside Vue.Js
+- Fell free to use any framework (or none) beside Vue.Js
 - Use a plataform such as **Figma** to desing your solution (You can choose a different plataform)
 
 ## Last Requesites
