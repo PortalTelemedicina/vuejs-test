@@ -48,6 +48,7 @@ The ideal scenario will be to clone your repository and execute it through a sin
 ## Documentation Requisites
 - It can be done in portuguese although being in english will also be considered a plus
 - It should be easy to undertand how to execute your tests (if it has any)
+- Explain about the page usage and capabilities with some text and images
 
 ## Last Requesites
 - You can use your Github, GitLab or BitBucket to deliver this test
