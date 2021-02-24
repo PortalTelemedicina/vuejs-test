@@ -10,7 +10,34 @@ The usage of the following are demanded
 - Use the [SpaceX API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/README.md)
 - The WEB APP shoud be responsive (supporting mobile screens is a PLUS)
 
-### What the Should Have
+### What the Page Should Have
+> 1. Show a list of the future Launches
+> * Add some details about the Launche
+> * Date
+> * Show if the mission was sucsseful or not
+> * Info about the payload if it has one
+> * Info about the crew if it has one
+> * Allowing to search for a launch is a PLUS
+> 
+> 2. List of the past Launches
+> * Add some details about the Launche
+> * Date
+> * Show if the mission was sucsseful or not
+> * Info about the payload if it has one
+> * Info about the crew if it has one
+> * Allowing to search for a launch is a PLUS
+> 
+> 3. Show some historical events
+> * Add some details about the Launche
+> * Date
+> * Show if the mission was sucsseful or not
+> * Info about the payload if it has one
+> * Info about the crew if it has one
+> * Allowing to search for a launch is a PLUS
+> 
+> 4. Display the user some Rockets
+> * Display some data about de rocket souch as: Name, picture, cost per lauch and etc
+> * Allowing the user to search for a rocket is a PLUS 
 
 ## Last Requesites
 - You can use your Github, GitLab or BitBucket to deliver this test
