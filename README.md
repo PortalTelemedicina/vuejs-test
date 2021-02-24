@@ -30,12 +30,7 @@ The usage of the following are demanded
 > * Allowing the user to search for a launch is a PLUS
 > 
 > 3. Show some historical events
-> * Add some details about the launch
-> * Date
-> * Show if the mission was successful or not
-> * Info about the payload if it has one
-> * Info about the crew if it has one
-> * Allowing the user to search for a launch is a PLUS
+> * You can display some articles or images
 > 
 > 4. Display the user some Rockets
 > * Display some data about the rocket such as: Name, picture, cost per launch and etc
