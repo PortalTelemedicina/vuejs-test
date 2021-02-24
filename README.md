@@ -8,6 +8,7 @@ The usage of the following are demanded
 - Fell free to use any framework (or none) beside Vue.Js
 - Use a plataform such as **Figma** to desing your solution (You can choose a different plataform)
 - Use the [SpaceX API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/README.md)
+- The WEB APP shoud be responsive(supporting mobile screens is a PLUS)
 
 ## Last Requesites
 - You can use your Github, GitLab or BitBucket to deliver this test
