@@ -40,6 +40,11 @@ The usage of the following are demanded
 > * Display some data about the rocket such as: Name, picture, cost per launch and etc
 > * Allowing the user to search for a rocket is a PLUS 
 
+## Running and Executing Requisites
+Make your project running with the minimum needed interactions will be considered important in the analysis of your performance.
+Make it as easy as possible
+The ideal scenario will be to clone your repository and execute it through a single command such as `npm start` or `npm run dev` after doing the `npm install`
+
 ## Last Requesites
 - You can use your Github, GitLab or BitBucket to deliver this test
 - Try to keep your commits to a reasonable atomic capacity (We want to be able to understand your line of thinking. Do not be afraid to make really small commits.)
