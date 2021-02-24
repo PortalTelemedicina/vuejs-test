@@ -6,7 +6,7 @@ The usage of the following are demanded
 - **ES6**
 - **Vue.JS CLI** (we use Vue 2.X but fell free to use 3.X with hooks)
 - Fell free to use any framework (or none) beside Vue.Js
-- Use a plataform such as **Figma** to desing your solution (You can choose a different plataform)
+- Use a plataform such as **Figma** to desing your solution (You can choose a different plataform if you desire)
 - Use the [SpaceX API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/README.md)
 - The WEB APP shoud be responsive (supporting mobile screens is a PLUS)
 
