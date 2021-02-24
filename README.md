@@ -16,6 +16,7 @@ The usage of the following are demanded
 - Use as much best practices you see fit to address the commits and/or branch naming (we use techniques based on gitflow)
 - Publishing your client in the cloud will be considered a PLUS (Heroko and Netlify are free ways to go)
 - Developing tests is optional but will also be considered a PLUS
+- Another PLUS would be to cache some of the API requests ([axios-cache-adapter](https://www.npmjs.com/package/axios-cache-adapter) is a way to go if you're using Axios)
 
 Feel free to ask Patrick Lopes - (**patrick@portaltelemedicina.com.br**) or Luiz Roberto Lethang Rodolpho - (**luiz@portaltelemedicina.com.br**) any question.
 
