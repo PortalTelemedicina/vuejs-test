@@ -1,6 +1,6 @@
 
 # Front-end Test for candidate
-We expect the candidate create a Web Page based on the following requisites.
+We expect the candidate to create a Web Page based on the following requisites.
 
 ## Technical Requisites
 
@@ -8,9 +8,9 @@ The usage of the following are demanded
 - **ES6**
 - **Vue.JS CLI** (we use Vue 2.X but fell free to use 3.X with hooks)
 - Fell free to use any framework (or none) beside Vue.Js
-- Use a platform such as **Figma** to design your solution (You can choose a different platform if you desire)
 - Use the [SpaceX API](https://github.com/r-spacex/SpaceX-API/blob/master/docs/v4/README.md)
 - The WEB APP should be responsive (supporting mobile screens is a PLUS)
+- You can use Material Design, Vue Material or a platform such as **Figma** to design your solution (You can choose a different platform if you desire)
 
 ### What the Page Should Have
 > 1. Show a list of the future Launches
@@ -58,7 +58,7 @@ The ideal scenario will be to clone your repository and execute it through a sin
 - Publishing your client in the cloud will be considered a PLUS (Heroko and Netlify are free ways to go)
 - Developing tests is optional but will also be considered a PLUS
 - Using Service Workers to let your web page work offline would be very nice
-- You can implement some extra features if you want but try not to escape so much from the main goal of the test
+- You can implement some extra features if you want, but try to not go away from the main goal of the test
 
 Feel free to ask Patrick Lopes - (**patrick@portaltelemedicina.com.br**) or Luiz Roberto Lethang Rodolpho - (**luiz@portaltelemedicina.com.br**) any question.
 
